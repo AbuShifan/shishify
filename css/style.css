@@ -436,7 +436,7 @@ a {
   }
 
   .plan--popular{
-    transform: scale(1);
+    transform: scale(1.0);
   }
 
   .plan .list__item{
